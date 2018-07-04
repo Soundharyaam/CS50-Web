@@ -1,0 +1,44 @@
+@charset "UTF-8";
+table thead > tr, .navbar-custom a {
+  background-color: #d02e77;
+  color: white;
+}
+
+.navbar-custom {
+  background-color: #d02e77;
+  padding: 5px;
+}
+.specialcontainer {
+  padding: 20px;
+}
+
+@media (min-width: 600px) {
+  #dollyimage {
+    width: 70%;
+  }
+}
+.link:hover {
+  color: #d02e77;
+  text-decoration: none;
+}
+
+.bulletaddition::before {
+  content: "•";
+  padding: 3px;
+}
+
+.dollynews {
+  border: 2px solid #d02e77;
+  min-height: 300px;
+}
+
+@media (max-width: 540px) {
+  .dollynews {
+    min-width: 450px;
+  }
+}
+.dollynews {
+  margin: 5px;
+}
+
+/*# sourceMappingURL=mainstylesheet.css.map */

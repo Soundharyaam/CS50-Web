@@ -1,0 +1,62 @@
+$primarycolor:#d02e77;
+$textcolor:white;
+
+%colors{
+    background-color: $primarycolor;
+    color:$textcolor;
+}
+
+.navbar-custom{
+    background-color:$primarycolor;
+    padding:5px;
+    a{
+    @extend %colors;   
+}
+}
+
+.specialcontainer{
+    padding:20px;
+}
+
+@media (min-width:600px){
+#dollyimage{
+    width:70%;
+}
+}
+
+table{
+    thead >tr {
+       @extend %colors;
+    }
+
+}
+
+.link{
+    &:hover{
+        color:$primarycolor;
+        text-decoration: none;
+    }
+
+}
+
+.bulletaddition{
+    &::before{
+        content:"\2022";
+        padding:3px;
+    }
+}
+
+.dollynews{
+    border:2px solid $primarycolor;
+    min-height:300px;
+}
+
+@media (max-width:540px){
+    .dollynews{
+        min-width:450px;        
+    }
+}
+
+.dollynews{
+    margin:5px;
+}
