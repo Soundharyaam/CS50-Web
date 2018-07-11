@@ -4,7 +4,7 @@ Web Programming with Python and JavaScript
 
 Project 1: https://soundharyaam.github.io/CS50-Web/Project0/
 
-Assignment requirements in my project:
+Assignment requirements:
 
 ### 1)Your website must contain at least four different .html pages, and it should be possible to get from any page on your website to any other page by following one or more hyperlinks.
 
@@ -39,7 +39,7 @@ Two media queries have been included for both the small screen and large screen 
 
 Bootstrap component like navbar with hamburger icon has been added for mobile responsiveness. Bootstrap grid is used for displaying images in cloningpros.html 
 
-#### 7)Your stylesheets must use at least one SCSS variable, at least one example of SCSS nesting, and at least one use of SCSS inheritance.
+### 7)Your stylesheets must use at least one SCSS variable, at least one example of SCSS nesting, and at least one use of SCSS inheritance.
 
 Two SCSS variables are used, Four SCSS nesting have been implemented and two times SCSS inheritance has been used.
 
