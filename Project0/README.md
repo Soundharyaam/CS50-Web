@@ -2,7 +2,7 @@
 
 Web Programming with Python and JavaScript
 
-Project 1: https://soundharyaam.github.io/CS50-Web/Project0/
+Project 0: https://soundharyaam.github.io/CS50-Web/Project0/
 
 Assignment requirements:
 
