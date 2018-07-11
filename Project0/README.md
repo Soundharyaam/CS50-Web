@@ -9,17 +9,17 @@ Assignment requirements in my project:
 1)Your website must contain at least four different .html pages, and it should be possible to get from any page on your website to any other page by following one or more hyperlinks.
 
 * index.html
-*cloning.html
-*cloningtypes.html
-*cloningpros.html
-*cloningcons.html.
+* cloning.html
+* cloningtypes.html
+* cloningpros.html
+* cloningcons.html.
 
 2)Your website must include at least one list (ordered or unordered), at least one table, and at least one image.
 
-*List in cloningtypes.html
-*cloningpros.html and cloningcons.html
-*table in cloningtypes.html
-*Image in cloning.html.
+* List in cloningtypes.html
+* cloningpros.html and cloningcons.html
+* table in cloningtypes.html
+* Image in cloning.html.
 
 3)Your website must have at least one stylesheet file.
 
